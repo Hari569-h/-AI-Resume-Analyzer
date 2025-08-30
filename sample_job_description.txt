@@ -1,0 +1,45 @@
+Job Title: Senior Machine Learning Engineer
+
+Company: AI Innovations Inc.
+
+Location: Remote / San Francisco, CA
+
+Job Type: Full-time
+
+About Us:
+AI Innovations Inc. is a leading AI research and development company focused on creating cutting-edge machine learning solutions for enterprise clients. We are looking for a talented Senior Machine Learning Engineer to join our growing team.
+
+Responsibilities:
+- Design, develop, and implement machine learning models and algorithms
+- Collaborate with data scientists and software engineers to integrate ML models into production systems
+- Optimize existing ML pipelines for improved performance and scalability
+- Conduct research on state-of-the-art ML techniques and apply them to solve business problems
+- Mentor junior team members and provide technical guidance
+- Document technical specifications and architecture decisions
+
+Requirements:
+- Master's or PhD in Computer Science, Machine Learning, or related field
+- 5+ years of experience in machine learning engineering or similar role
+- Strong proficiency in Python and TensorFlow/PyTorch
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Knowledge of data structures, algorithms, and software design patterns
+- Familiarity with containerization tools like Docker and Kubernetes
+- Experience with CI/CD pipelines and MLOps practices
+- Strong communication skills and ability to explain complex concepts to non-technical stakeholders
+
+Preferred Qualifications:
+- Experience with natural language processing (NLP) and computer vision
+- Contributions to open-source ML projects
+- Publications in top-tier ML conferences or journals
+- Experience with distributed computing frameworks (Spark, Dask)
+- Knowledge of SQL and NoSQL databases
+
+Benefits:
+- Competitive salary and equity package
+- Health, dental, and vision insurance
+- 401(k) matching
+- Flexible work hours and remote work options
+- Professional development budget
+- Paid time off and parental leave
+
+AI Innovations Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
